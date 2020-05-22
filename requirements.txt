@@ -1,0 +1,10 @@
+beautifulsoup4 4.9.0
+certifi        2020.4.5.1
+chardet        3.0.4
+email          6.0.0a1
+idna           2.9
+pip            20.1
+requests       2.23.0
+setuptools     40.6.2
+soupsieve      2.0
+urllib3        1.25.9
