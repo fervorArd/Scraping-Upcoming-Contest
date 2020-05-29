@@ -17,6 +17,9 @@ To run the script every week(or on any day of the month) you can schedule task w
 - Add the path to the script.
 - Click Finish.
 
+Also you can automate a python script to run daily using [pythonanywhere](https://www.youtube.com/watch?v=0fQjA8w1woQ)
+
+
 Took help from [@supistar repo](https://gist.github.com/supistar) for sending the email.
 
 
